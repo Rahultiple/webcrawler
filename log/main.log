@@ -1,0 +1,31 @@
+2019-01-20 15:34:12,042 +0530 [http-nio-8080-exec-5] INFO  (CrawlerUtil2.java:98) - Inilial link size is -> 283
+2019-01-20 15:34:16,893 +0530 [132-142] INFO  (CrawlerUtil2.java:121) - 132-142:: End Iteration-->startIteration=>132 endIteration=>142
+2019-01-20 15:34:16,896 +0530 [220-230] INFO  (CrawlerUtil2.java:121) - 220-230:: End Iteration-->startIteration=>220 endIteration=>230
+2019-01-20 15:34:16,896 +0530 [231-241] INFO  (CrawlerUtil2.java:121) - 231-241:: End Iteration-->startIteration=>231 endIteration=>241
+2019-01-20 15:34:17,003 +0530 [154-164] INFO  (CrawlerUtil2.java:121) - 154-164:: End Iteration-->startIteration=>154 endIteration=>164
+2019-01-20 15:34:17,006 +0530 [253-263] INFO  (CrawlerUtil2.java:121) - 253-263:: End Iteration-->startIteration=>253 endIteration=>263
+2019-01-20 15:34:17,181 +0530 [121-131] INFO  (CrawlerUtil2.java:121) - 121-131:: End Iteration-->startIteration=>121 endIteration=>131
+2019-01-20 15:34:17,181 +0530 [275-283] INFO  (CrawlerUtil2.java:121) - 275-283:: End Iteration-->startIteration=>275 endIteration=>283
+2019-01-20 15:34:17,181 +0530 [286-283] INFO  (CrawlerUtil2.java:121) - 286-283:: End Iteration-->startIteration=>286 endIteration=>283
+2019-01-20 15:34:17,181 +0530 [297-283] INFO  (CrawlerUtil2.java:121) - 297-283:: End Iteration-->startIteration=>297 endIteration=>283
+2019-01-20 15:34:17,181 +0530 [308-283] INFO  (CrawlerUtil2.java:121) - 308-283:: End Iteration-->startIteration=>308 endIteration=>283
+2019-01-20 15:34:17,211 +0530 [176-186] INFO  (CrawlerUtil2.java:121) - 176-186:: End Iteration-->startIteration=>176 endIteration=>186
+2019-01-20 15:34:17,676 +0530 [198-208] INFO  (CrawlerUtil2.java:121) - 198-208:: End Iteration-->startIteration=>198 endIteration=>208
+2019-01-20 15:34:18,193 +0530 [264-274] INFO  (CrawlerUtil2.java:121) - 264-274:: End Iteration-->startIteration=>264 endIteration=>274
+2019-01-20 15:34:18,408 +0530 [88-98] INFO  (CrawlerUtil2.java:121) - 88-98:: End Iteration-->startIteration=>88 endIteration=>98
+2019-01-20 15:34:18,468 +0530 [66-76] INFO  (CrawlerUtil2.java:121) - 66-76:: End Iteration-->startIteration=>66 endIteration=>76
+2019-01-20 15:34:18,688 +0530 [0-10] INFO  (CrawlerUtil2.java:121) - 0-10:: End Iteration-->startIteration=>0 endIteration=>10
+2019-01-20 15:34:18,860 +0530 [187-197] INFO  (CrawlerUtil2.java:121) - 187-197:: End Iteration-->startIteration=>187 endIteration=>197
+2019-01-20 15:34:18,920 +0530 [33-43] INFO  (CrawlerUtil2.java:121) - 33-43:: End Iteration-->startIteration=>33 endIteration=>43
+2019-01-20 15:34:19,200 +0530 [99-109] INFO  (CrawlerUtil2.java:121) - 99-109:: End Iteration-->startIteration=>99 endIteration=>109
+2019-01-20 15:34:19,267 +0530 [44-54] INFO  (CrawlerUtil2.java:121) - 44-54:: End Iteration-->startIteration=>44 endIteration=>54
+2019-01-20 15:34:20,432 +0530 [165-175] INFO  (CrawlerUtil2.java:121) - 165-175:: End Iteration-->startIteration=>165 endIteration=>175
+2019-01-20 15:34:20,792 +0530 [55-65] INFO  (CrawlerUtil2.java:121) - 55-65:: End Iteration-->startIteration=>55 endIteration=>65
+2019-01-20 15:34:24,845 +0530 [11-21] INFO  (CrawlerUtil2.java:121) - 11-21:: End Iteration-->startIteration=>11 endIteration=>21
+2019-01-20 15:34:25,063 +0530 [209-219] INFO  (CrawlerUtil2.java:121) - 209-219:: End Iteration-->startIteration=>209 endIteration=>219
+2019-01-20 15:34:26,573 +0530 [242-252] INFO  (CrawlerUtil2.java:121) - 242-252:: End Iteration-->startIteration=>242 endIteration=>252
+2019-01-20 15:34:26,710 +0530 [110-120] INFO  (CrawlerUtil2.java:121) - 110-120:: End Iteration-->startIteration=>110 endIteration=>120
+2019-01-20 15:34:31,662 +0530 [77-87] INFO  (CrawlerUtil2.java:121) - 77-87:: End Iteration-->startIteration=>77 endIteration=>87
+2019-01-20 15:34:53,089 +0530 [143-153] INFO  (CrawlerUtil2.java:121) - 143-153:: End Iteration-->startIteration=>143 endIteration=>153
+2019-01-20 15:36:08,251 +0530 [22-32] INFO  (CrawlerUtil2.java:121) - 22-32:: End Iteration-->startIteration=>22 endIteration=>32
+2019-01-20 15:36:08,253 +0530 [http-nio-8080-exec-5] INFO  (CrawlerUtil2.java:132) - before loop termination size of Map=>615

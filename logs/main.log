@@ -1,0 +1,5 @@
+2019-01-19 11:16:33,688 +0530 [pool-1-thread-1] INFO  (CrawlerUtil2.java:117) - End Iteration-->startIteration=>0 endIteration=>50
+2019-01-19 11:16:36,972 +0530 [pool-1-thread-3] INFO  (CrawlerUtil2.java:117) - End Iteration-->startIteration=>102 endIteration=>152
+2019-01-19 11:17:34,442 +0530 [pool-1-thread-4] INFO  (CrawlerUtil2.java:117) - End Iteration-->startIteration=>153 endIteration=>203
+2019-01-19 11:17:36,111 +0530 [pool-1-thread-5] INFO  (CrawlerUtil2.java:117) - End Iteration-->startIteration=>204 endIteration=>254
+2019-01-19 11:17:42,961 +0530 [pool-1-thread-2] INFO  (CrawlerUtil2.java:117) - End Iteration-->startIteration=>51 endIteration=>101
